@@ -1,0 +1,17 @@
+{
+  "name": "sails-hook-webpack4",
+  "version": "1.0.0",
+  "description": "Webpack(v4) Hook for SailsJS",
+  "main": "index.js",
+  "license": "MIT",
+  "sails": {
+    "isHook": true
+  },
+  "dependencies": {
+    "webpack": "^4.29.0",
+    "webpack-dev-middleware": "^3.5.1",
+    "webpack-hot-middleware": "^2.24.3"
+  },
+  "author": "Nicholas Peretti <peretti.nicholas@gmail.com>",
+  "repository": "git@github.com:NicholasPeretti/sails-hook-webpack4.git"
+}
