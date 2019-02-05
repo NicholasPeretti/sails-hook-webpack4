@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-webpack4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack(v4) Hook for SailsJS",
   "main": "index.js",
   "license": "MIT",
